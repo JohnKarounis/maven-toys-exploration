@@ -1,0 +1,5 @@
+Maven Toys Data/
+__MACOSX/
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
